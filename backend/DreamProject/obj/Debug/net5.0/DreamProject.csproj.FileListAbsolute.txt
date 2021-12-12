@@ -1,0 +1,122 @@
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\appsettings.json
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\DreamProject.exe
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\DreamProject.deps.json
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\DreamProject.runtimeconfig.json
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\DreamProject.runtimeconfig.dev.json
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\DreamProject.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\ref\DreamProject.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\DreamProject.pdb
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\DreamProject.csproj.AssemblyReference.cache
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\DreamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\DreamProject.AssemblyInfoInputs.cache
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\DreamProject.AssemblyInfo.cs
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\DreamProject.csproj.CoreCompileInputs.cache
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\DreamProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\DreamProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\staticwebassets\DreamProject.StaticWebAssets.Manifest.cache
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\staticwebassets\DreamProject.StaticWebAssets.xml
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\scopedcss\bundle\DreamProject.styles.css
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\DreamProject.RazorTargetAssemblyInfo.cache
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\DreamProject.csproj.CopyComplete
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\DreamProject.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\ref\DreamProject.dll
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\DreamProject.pdb
+C:\Users\Tapac\source\repos\DreamProject\DreamProject\obj\Debug\net5.0\DreamProject.genruntimeconfig.cache
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\appsettings.Development.json
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\appsettings.json
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\DreamProject.exe
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\DreamProject.deps.json
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\DreamProject.runtimeconfig.json
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\DreamProject.runtimeconfig.dev.json
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\DreamProject.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\ref\DreamProject.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\DreamProject.pdb
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Humanizer.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.csproj.AssemblyReference.cache
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.AssemblyInfoInputs.cache
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.AssemblyInfo.cs
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.csproj.CoreCompileInputs.cache
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\staticwebassets\DreamProject.StaticWebAssets.Manifest.cache
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\staticwebassets\DreamProject.StaticWebAssets.xml
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\scopedcss\bundle\DreamProject.styles.css
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.RazorTargetAssemblyInfo.cache
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.csproj.CopyComplete
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\ref\DreamProject.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.pdb
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.genruntimeconfig.cache
