@@ -28,6 +28,11 @@
   color: #fff;
 }
 
+.primary-light {
+  background-color: var(--color-primary-light);
+  color: #fff;
+}
+
 .secondary {
   background-color: var(--color-secondary-dark);
   color: #fff;
@@ -42,8 +47,13 @@
   color: #fff;
 }
 
-.buttonIcon {
-  display: block;
-  width: 100%;
-  height: 100%;
+.round {
+  width: 40px;
+  height: 30px;
+  border-radius: 50%;
+  padding: 0;
+}
+
+.iconBtn {
+  width: 50px;
 }

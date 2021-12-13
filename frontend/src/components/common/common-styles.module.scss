@@ -20,7 +20,6 @@
 .textInput {
     height: 40px;
     width: 100%;
-    margin-bottom: 5px;
     padding: 0 15px 0 19px;
     box-sizing: border-box;
     border-radius: 7px;
@@ -61,4 +60,8 @@
 
 .gray-light {
     background-color: var(--color-gray-light);
+}
+
+.gray-very-light {
+    background-color: var(--color-gray-very-light);
 }

@@ -1,0 +1,65 @@
+.container {
+    flex-grow: 1;
+    display: flex;
+    grid-gap: 20px;
+    padding: 40px;
+    overflow-x: scroll;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    left: 0;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    min-width: 300px;
+    max-height: 100%;
+    background-color: var(--color-gray-light);
+}
+
+.cardsContainer::-webkit-scrollbar {
+    width: 10px;
+}
+
+.cardsContainer::-webkit-scrollbar-thumb {
+    background: rgb(187, 187, 187);
+    border-radius: 5px;
+}
+
+.cardsContainer::-webkit-scrollbar-thumb:hover {
+    background: rgb(161, 161, 161);
+}
+
+.cardsContainer {
+    overflow-y: auto;
+    margin-right: 5px;
+}
+
+.columnHeader {
+    padding: 10px 20px 10px 0;
+    input {
+        font-weight: 600;
+        font-size: 13px;
+    }
+}
+
+.columnFooter {
+    padding: 10px;
+}
+
+.inlineBlock {
+    display: flex;
+    grid-gap: 20px;
+    align-items: center;
+}
+
+.newColumn {
+    border-radius: 5px;
+    height: 40px;
+    padding: 10px;
+    min-width: 280px;
+    background-color: var(--color-gray-very-light);
+}
