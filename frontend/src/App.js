@@ -1,5 +1,7 @@
+import { Board } from './components';
+
 import './index.module.scss';
 
-const App = () => (<div>empty project</div>);
+const App = () => (<Board/>);
 
 export default App;
