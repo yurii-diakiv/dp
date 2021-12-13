@@ -1,4 +1,5 @@
 const ReducerName = {
+    COLUMNS: 'columns',
     TOASTR: 'toastr'
 };
 
