@@ -63,3 +63,21 @@
     min-width: 280px;
     background-color: var(--color-gray-very-light);
 }
+
+.card {
+    margin: 8px;
+    background-color: white;
+    font-family: "Inter", sans-serif;
+    font-size: 13px;
+    border-radius: 5px;
+}
+
+.cardTitle {
+    padding: 10px 10px 0px 10px;
+    font-weight: 600;
+}
+
+.cardText {
+    white-space: pre-line;
+    padding: 10px;
+}
