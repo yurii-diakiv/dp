@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace DreamProject.Models
 {
-    public class ApplicationUser
+    public class Column
     {
         [Key]
         public int Id { get; set; }
         public string Name { get; set; }
-
-        public string Surname { get; set; }
     }
 }

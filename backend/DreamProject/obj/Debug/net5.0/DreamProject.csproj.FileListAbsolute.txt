@@ -120,3 +120,6 @@ D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamPro
 D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\ref\DreamProject.dll
 D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.pdb
 D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\obj\Debug\net5.0\DreamProject.genruntimeconfig.cache
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\System.Web.Http.dll
+D:\Lviv National University\9 семестр\ООА та ППЗ\backend\DreamProject\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
