@@ -1,7 +1,12 @@
-import { Board } from './components';
+import { Header, Board } from './components';
 
 import './index.module.scss';
 
-const App = () => (<Board/>);
+const App = () => (
+    <>
+        <Header/>
+        <Board/>
+    </>
+);
 
 export default App;
