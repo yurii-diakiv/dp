@@ -3,14 +3,16 @@ using DreamProject.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace DreamProject.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20211216000334_Migration8")]
+    partial class Migration8
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -58,9 +60,6 @@ namespace DreamProject.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int>("ColumnId")
-                        .HasColumnType("int");
-
                     b.Property<string>("Text")
                         .HasColumnType("nvarchar(max)");
 
@@ -68,8 +67,6 @@ namespace DreamProject.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("ColumnId");
 
                     b.ToTable("Cards");
                 });
@@ -81,49 +78,12 @@ namespace DreamProject.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int>("BoardId")
-                        .HasColumnType("int");
-
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("BoardId");
-
                     b.ToTable("Columns");
-                });
-
-            modelBuilder.Entity("DreamProject.Models.Card", b =>
-                {
-                    b.HasOne("DreamProject.Models.Column", "Column")
-                        .WithMany("ColumnCards")
-                        .HasForeignKey("ColumnId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Column");
-                });
-
-            modelBuilder.Entity("DreamProject.Models.Column", b =>
-                {
-                    b.HasOne("DreamProject.Models.Board", "Board")
-                        .WithMany("BoardColumn")
-                        .HasForeignKey("BoardId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Board");
-                });
-
-            modelBuilder.Entity("DreamProject.Models.Board", b =>
-                {
-                    b.Navigation("BoardColumn");
-                });
-
-            modelBuilder.Entity("DreamProject.Models.Column", b =>
-                {
-                    b.Navigation("ColumnCards");
                 });
 #pragma warning restore 612, 618
         }

@@ -44,6 +44,11 @@ namespace DreamProject
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
 
+            services.AddControllersWithViews()
+                .AddNewtonsoftJson(options =>
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+            );
+
             services.AddSingleton<DbContextFactory>();
 
             services.AddTransient<ICommonRepository, CommonRepository>();

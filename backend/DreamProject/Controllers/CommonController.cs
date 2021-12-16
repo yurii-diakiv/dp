@@ -24,11 +24,11 @@ namespace DreamProject.Controllers
             _commonService = commonService;
         }
 
-        [Route("GetAllColumns")]
+        [Route("GetAllColumnsByBoardId")]
         [HttpGet]
-        public JsonResult GetAllColumns()
+        public JsonResult GetAllColumnsByBoardId(int boardId)
         {
-            var columns = _commonService.GetAllColumns();
+            var columns = _commonService.GetAllColumnsByBoardId(boardId);
 
             return new JsonResult(columns);
         }
@@ -44,9 +44,9 @@ namespace DreamProject.Controllers
 
         [Route("InsertColumn")]
         [HttpPut]
-        public JsonResult InsertColumn(string name)
+        public JsonResult InsertColumn(string name, int boardId)
         {
-            var newColumnId = _commonService.InsertColumn(name);
+            var newColumnId = _commonService.InsertColumn(name, boardId);
 
             return new JsonResult(newColumnId);
         }
@@ -56,6 +56,58 @@ namespace DreamProject.Controllers
         public void UpdateСolumnNameById(int id, string name)
         {
             _commonService.UpdateСolumnNameById(id, name);
+        }
+
+
+        // Board
+        [Route("GetAllBoards")]
+        [HttpGet]
+        public JsonResult GetAllBoards()
+        {
+            return new JsonResult(_commonService.GetAllBoards());
+        }
+
+        [Route("GetBoardById")]
+        [HttpGet]
+        public JsonResult GetBoardById(int id)
+        {
+            return new JsonResult(_commonService.GetBoardById(id));
+        }
+
+        [Route("InsertBoard")]
+        [HttpPut]
+        public JsonResult InsertBoard(string name)
+        {
+            return new JsonResult(_commonService.InsertBoard(name));
+        }
+
+        [Route("UpdateBoardNameById")]
+        [HttpPost]
+        public void UpdateBoardNameById(int id, string name)
+        {
+            _commonService.UpdateBoardNameById(id, name);
+        }
+
+        // Card
+        [Route("GetCardsByColumnId")]
+        [HttpGet]
+        public JsonResult GetCardsByColumnId(int columnId)
+        {
+            return new JsonResult(_commonService.GetCardsByColumnId(columnId));
+        }
+
+        [Route("GetCardById")]
+        [HttpGet]
+        public JsonResult GetCardById(int id)
+        {
+            return new JsonResult(_commonService.GetCardById(id));
+        }
+
+        [Route("InsertCard")]
+        [HttpPost]
+        public JsonResult InsertCard(string title, string text, int columnId)
+        {
+            return new JsonResult(_commonService.InsertCard(title, text, columnId));
         }
     }
 }

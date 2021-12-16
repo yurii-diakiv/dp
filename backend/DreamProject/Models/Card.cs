@@ -7,14 +7,15 @@ using System.Threading.Tasks;
 
 namespace DreamProject.Models
 {
-    public class Column
+    public class Card
     {
         [Key]
         public int Id { get; set; }
-        public string Name { get; set; }
-        public ICollection<Card> ColumnCards { get; set; }
-        [ForeignKey("Board")]
-        public int BoardId { get; set; }
-        public Board Board { get; set; }
+        public string Title { get; set; }
+        public string Text { get; set; }
+
+        [ForeignKey("Column")]
+        public int ColumnId { get; set; }
+        public Column Column { get; set; }
     }
 }

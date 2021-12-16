@@ -14,6 +14,10 @@ namespace DreamProject.Models
         
         public DbSet<Column> Columns { get; set; }
 
+        public DbSet<Board> Boards { get; set; }
+
+        public DbSet<Card> Cards { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.EnableSensitiveDataLogging();
