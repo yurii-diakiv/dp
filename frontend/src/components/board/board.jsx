@@ -6,6 +6,7 @@ import { faPlus } from '@fortawesome/free-solid-svg-icons';
 import { faTrashAlt } from '@fortawesome/free-regular-svg-icons';
 import { TextInput, Button } from 'components/common';
 import { ColumnsActionCreator } from 'store/slices';
+import { AddCardModal } from './components'
 
 import styles from './board.module.scss';
 
@@ -13,6 +14,7 @@ const Board = () => {
     // const { columns } = useSelector(({ columns }) => ({
     //     columns: columns.columns,
     // }));
+    const [isShown, setIsShown] = useState(false);
 
     const dispatch = useDispatch();
 
@@ -59,7 +61,13 @@ const Board = () => {
 
     const handleRemoveCard = id => () => console.log(id);
 
-    const handleAddCard = columnId => () => console.log('add a new card', columnId);
+    const handleAddCard = () => () => {
+        setIsShown(true);
+    }
+
+    const handleCloseModal = () => {
+        setIsShown(false);
+    }
 
     return (
         <div className={styles.container}>
@@ -110,6 +118,8 @@ const Board = () => {
                                 onClick={handleAddCard(column.id)}
                             />
                         </div>
+
+                        <AddCardModal isShown = { isShown } handleCloseModal = { handleCloseModal } columnId = { column.id }/>
                     </div>
                 </div>
             )}
