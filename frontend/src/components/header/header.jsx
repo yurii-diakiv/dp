@@ -24,6 +24,11 @@ const Header = () => {
                     color='gray-light'  
                     onClick={handleOpenModal}
                 />
+                <Button
+                    label='Boards'
+                    type='button'
+                    color='gray-light'  
+                />
             </div>
             <div className={styles.right}>
                 <a class="active" href="#home">Peter Parker</a>
